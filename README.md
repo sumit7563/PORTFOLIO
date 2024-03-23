@@ -1,3 +1,3 @@
 # PORTFOLIO
 
-https://sumit7563.github.io/PORTFOLIO/
+https://sumit7563.github.io/PORTFOLIO/.
